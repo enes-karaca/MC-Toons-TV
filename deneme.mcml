@@ -112,10 +112,10 @@
                      Layout="Center">
             <Children>
               <Graphic Name="DunkingBirdLegs"
-                       Content="file://AnimationsCenterPointDunkingBirdLegs.png"
+                       Content="https://github.com/enes-karaca/MC-Toons-TV/blob/main/AnimationsCenterPointDunkingBirdLegs.png?raw=true"
                        MaintainAspectRatio="true"/>
               <Graphic Name="DunkingBirdBody"
-                       Content="file://AnimationsCenterPointDunkingBirdBody.png"
+                       Content="https://github.com/enes-karaca/MC-Toons-TV/blob/main/AnimationsCenterPointDunkingBirdBody.png?raw=true"
                        MaintainAspectRatio="true"/>
             </Children>
           </ColorFill>
